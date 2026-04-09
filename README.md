@@ -108,18 +108,19 @@
 
 </div>
 
+<br><hr><br>
+
+<h2 align="center"><code>tail -f /var/log/system_metrics.log</code></h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geesaralankanath&theme=radical" width="85%" alt="GitHub Profile Details" />
+</div>
+
 <br>
 
-<h2 align="center"><code>tail -f /var/log/github_telemetry.log</code></h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geesaralankanath&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=geesaralankanath&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&border_color=00FF41&hide_border=false" width="48%" alt="Streak Stats"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geesaralankanath&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&border_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Top Languages"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=geesaralankanath&limit=5&bg_color=0D1117&title_color=00FF41&text_color=00FFFF&icon_color=FF00FF&border_color=00FF41&combine_all_yearly_contributions=true" width="48%" alt="Top Contributed Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geesaralankanath&theme=radical" width="42%" alt="Repos by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geesaralankanath&theme=radical" width="42%" alt="Most Commits by Language" />
 </div>
 
 <br><br>
