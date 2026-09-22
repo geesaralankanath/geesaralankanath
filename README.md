@@ -2,11 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a00&height=200&section=header&text=%3E_SYSTEM.LOGIN(GEESARA);&fontSize=40&fontAlignY=45&desc=%5B%20ACCESS%20GRANTED%20%5D%20:%20WELCOME%20TO%20THE%20GRID&descAlignY=70&descAlign=50&fontColor=00FF41&descSize=16" width="100%" alt="Header" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Initializing+Arvona_Labs+protocols...;Establishing+secure+connection...;Executing+Fullstack_Dev.sh...;Loading+Cybersecurity_Modules...;System+Ready." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Initializing+Geesara.exe...;Establishing+secure+connection...;Executing+Fullstack_Dev.sh...;Loading+Cybersecurity_Modules...;System+Ready." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
+  <a href="https://geesara.zya.me/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FFFF" alt="Portfolio"></a>
   <a href="https://facebook.com/geesara.dissanayaka"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=00FFFF" alt="Facebook"></a>
   <a href="https://instagram.com/geesara_dissanayaka"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram&logoColor=00FFFF" alt="Instagram"></a>
   <a href="https://linkedin.com/in/geesara-dissanayaka"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"></a>
@@ -22,7 +23,7 @@
     <td width="50%" valign="top">
       <h3 align="center"><code>[ IDENTITY_MATRIX ]</code></h3>
       <blockquote>
-        <p><b><code>[+] MISSION_CTRL:</code></b> Building and scaling <b>Arvona Labs</b>, engineering secure software architecture.</p>
+        <p><b><code>[+] MISSION_CTRL:</code></b> Engineering secure, high-performance software architecture.</p>
         <p><b><code>[+] COLLAB_PORT:</code></b> Open-source Cybersecurity tools & high-performance PHP/React/Java systems.</p>
         <p><b><code>[!] UPLINK_REQ:</code></b> Mastering advanced SOC analysis and zero-trust network protocols.</p>
       </blockquote>
